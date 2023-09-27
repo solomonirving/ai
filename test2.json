@@ -1,51 +1,63 @@
 [
     {
         "Category":"DKNY Unisex Black & Grey Printed Medium Trolley Bag",
-        "fit":"One size fits all"
+        "fit":"One size fits all",
+        "sale":"On sale"
     },
     {
         "Category":"EthnoVogue Women Beige & Grey Made to Measure Custom Made Kurta Set with Jacket",
-        "fit":"fits slim"
+        "fit":"fits slim",
+        "sale":"On sale"
     },
     {
         "Category":"SPYKAR Women Pink Alexa Super Skinny Fit High-Rise Clean Look Stretchable Cropped Jeans",
-        "fit":"oversize"
+        "fit":"oversize",
+        "sale":"On sale"
     },
     {
         "Category":"Raymond Men Blue Self-Design Single-Breasted Bandhgala Suit",
-        "fit":"70's size suit"
+        "fit":"70's size suit",
+        "sale":"On sale"
     },
     {
         "Category":"Parx Men Brown & Off-White Printed Casual Shirt",
-        "fit":"Tropical fit"
+        "fit":"Tropical fit",
+        "sale":"On sale"
     },
     {
         "Category":"SHOWOFF Men Brown Solid Slim Fit Regular Shorts",
-        "fit":"super short"
+        "fit":"super short",
+        "sale":"On sale"
     
     },
     {
         "Category":"Parx Men Blue Slim Fit Checked Casual Shirt",
-        "fit":"fits slim"
+        "fit":"fits slim",
+        "sale":"Above retail"
     },
     {
         "Category":"SPYKAR Women Burgundy Alexa Super Skinny Fit High-Rise Clean Look Stretchable Ankle Jeans",
-        "fit":"fits skinny"
+        "fit":"fits skinny",
+        "sale":"On sale"
     },
     {
         "Category":"Parx Men Brown Tapered Fit Solid Regular Trousers,Parx",
-        "fit":"fits slim"
+        "fit":"fits slim",
+        "sale":"Regular price"
     },
     {
         "Category":"DKNY Unisex Black Large Trolley Bag",
-        "fit":"One size fits all"
+        "fit":"One size fits all",
+        "sale":"On sale"
     },
     {
         "Category":"Kenneth Cole Women Navy Blue Solid Backpack",
-        "fit":"One size fits all"
+        "fit":"One size fits all",
+        "sale":"Regular price"
     },
     {
         "Category":"Parx Men Green Printed Polo Collar T-shirt",
-        "fit":"fits like a glove"
+        "fit":"fits like a glove",
+        "sale":"On sale"
     }
 ]
