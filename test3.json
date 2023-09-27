@@ -1,8 +1,8 @@
 [
-    {"Store":"DKNY bags are 1 size fits all"},
-    {"Store":"EthnoVogue jackets run small"},
-    {"Store":"SPYKAR jeans run large"},
-    {"Store":"Raymond suits fit perfect"},
-    {"Store":"Parx Casual Shirt fits normal"},
-    {"Store":"SHOWOFF Shorts are slimfit"}
+    {"Category":"DKNY bags are 1 size fits all, not on sale"},
+    {"Category":"EthnoVogue jackets run small, on sale"},
+    {"Category":"SPYKAR jeans run large, not on sale"},
+    {"Category":"Raymond suits fit perfect, above retail price"},
+    {"Category":"Parx Casual Shirt fits normal, regular price"},
+    {"Category":"SHOWOFF Shorts are slimfit, on sale"}
 ]
