@@ -1,14 +1,51 @@
 [
-    {"Category":"DKNY Unisex Black & Grey Printed Medium Trolley Bag"},
-    {"Category":"EthnoVogue Women Beige & Grey Made to Measure Custom Made Kurta Set with Jacket"},
-    {"Category":"SPYKAR Women Pink Alexa Super Skinny Fit High-Rise Clean Look Stretchable Cropped Jeans"},
-    {"Category":"Raymond Men Blue Self-Design Single-Breasted Bandhgala Suit"},
-    {"Category":"Parx Men Brown & Off-White Slim Fit Printed Casual Shirt"},
-    {"Category":"SHOWOFF Men Brown Solid Slim Fit Regular Shorts"},
-    {"Category":"Parx Men Blue Slim Fit Checked Casual Shirt,Parx"},
-    {"Category":"SPYKAR Women Burgundy Alexa Super Skinny Fit High-Rise Clean Look Stretchable Ankle Jeans"},
-    {"Category":"Parx Men Brown Tapered Fit Solid Regular Trousers,Parx"},
-    {"Category":"DKNY Unisex Black Large Trolley Bag"},
-    {"Category":"Kenneth Cole Women Navy Blue Solid Backpack"},
-    {"Category":"Parx Men Green Printed Polo Collar T-shirt"}
+    {
+        "Category":"DKNY Unisex Black & Grey Printed Medium Trolley Bag",
+        "fit":"One size fits all"
+    },
+    {
+        "Category":"EthnoVogue Women Beige & Grey Made to Measure Custom Made Kurta Set with Jacket",
+        "fit":"fits slim"
+    },
+    {
+        "Category":"SPYKAR Women Pink Alexa Super Skinny Fit High-Rise Clean Look Stretchable Cropped Jeans",
+        "fit":"oversize"
+    },
+    {
+        "Category":"Raymond Men Blue Self-Design Single-Breasted Bandhgala Suit",
+        "fit":"70's size suit"
+    },
+    {
+        "Category":"Parx Men Brown & Off-White Printed Casual Shirt",
+        "fit":"Tropical fit"
+    },
+    {
+        "Category":"SHOWOFF Men Brown Solid Slim Fit Regular Shorts",
+        "fit":"super short"
+    
+    },
+    {
+        "Category":"Parx Men Blue Slim Fit Checked Casual Shirt",
+        "fit":"fits slim"
+    },
+    {
+        "Category":"SPYKAR Women Burgundy Alexa Super Skinny Fit High-Rise Clean Look Stretchable Ankle Jeans",
+        "fit":"fits skinny"
+    },
+    {
+        "Category":"Parx Men Brown Tapered Fit Solid Regular Trousers,Parx",
+        "fit":"fits slim"
+    },
+    {
+        "Category":"DKNY Unisex Black Large Trolley Bag",
+        "fit":"One size fits all"
+    },
+    {
+        "Category":"Kenneth Cole Women Navy Blue Solid Backpack",
+        "fit":"One size fits all"
+    },
+    {
+        "Category":"Parx Men Green Printed Polo Collar T-shirt",
+        "fit":"fits like a glove"
+    }
 ]
