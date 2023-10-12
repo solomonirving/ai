@@ -1,13 +1,13 @@
 [
     {
         "Resume":
-            Education
-            Education Western Governors University	Graduating 08/2021
-            B.S. Computer Science
+            "Western Governors University Graduating 08/2021 B.S. Computer Science
+            
             Employment History
+                
             Jun - Aug 20
             Seventh Ladder Industries
-            Frontend Developer · Contract
+            Frontend Developer Contract
             
             Planned, developed, tested, deployed, and maintained web appli- cations.
             Provided effective troubleshooting and remediation for web appli- cations.
@@ -63,7 +63,7 @@
             
             Projects
             Star Wars	Technologies: React, React Router, CSS, Semantic UI
-            Amazing Store	Technologies: React, React Router, CSS, Se
+            Amazing Store	Technologies: React, React Router, CSS"
             
     }
 ]
