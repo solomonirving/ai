@@ -1,0 +1,2242 @@
+[
+    {
+        "type": "Title",
+        "element_id": "39f17ec6ebcf3cec37a06d85dc61882b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        29.753002599999945
+                    ],
+                    [
+                        28.346,
+                        44.09920260000001
+                    ],
+                    [
+                        67.84108859999999,
+                        44.09920260000001
+                    ],
+                    [
+                        67.84108859999999,
+                        29.753002599999945
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "START"
+    },
+    {
+        "type": "Title",
+        "element_id": "23e98512cbbc1eb59aa45c2c6068614d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        192.528,
+                        36.74942329999999
+                    ],
+                    [
+                        192.528,
+                        61.5365233
+                    ],
+                    [
+                        390.10597409999997,
+                        61.5365233
+                    ],
+                    [
+                        390.10597409999997,
+                        36.74942329999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Solomon Irving III"
+    },
+    {
+        "type": "Title",
+        "element_id": "cda14d0b2d954643c80cf0a1ee7ea189",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        113.76405290000002
+                    ],
+                    [
+                        28.346,
+                        121.73415290000003
+                    ],
+                    [
+                        47.179346300000006,
+                        121.73415290000003
+                    ],
+                    [
+                        47.179346300000006,
+                        113.76405290000002
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "INFO"
+    },
+    {
+        "type": "Title",
+        "element_id": "25c3308bcdc49ca36826fbe41a38f852",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        184.958,
+                        112.77100259999986
+                    ],
+                    [
+                        184.958,
+                        127.11720259999993
+                    ],
+                    [
+                        257.8080036,
+                        127.11720259999993
+                    ],
+                    [
+                        257.8080036,
+                        112.77100259999986
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "EDUCATION"
+    },
+    {
+        "type": "Title",
+        "element_id": "66cdad88a87e4bcd4e5f9bbdf8a9ec0b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        142.15705290000005
+                    ],
+                    [
+                        28.346,
+                        159.5363622000001
+                    ],
+                    [
+                        70.67520110000001,
+                        159.5363622000001
+                    ],
+                    [
+                        70.67520110000001,
+                        142.15705290000005
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Location California"
+    },
+    {
+        "type": "Title",
+        "element_id": "0a6da693d3be9417f85ba00ff30f80be",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        184.958,
+                        137.2402323
+                    ],
+                    [
+                        184.958,
+                        154.67433230000006
+                    ],
+                    [
+                        337.49059610000006,
+                        154.67433230000006
+                    ],
+                    [
+                        337.49059610000006,
+                        137.2402323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Education Western Governors University B.S. Computer Science"
+    },
+    {
+        "type": "Title",
+        "element_id": "0900e305c927fa394a1ade97d7720834",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        492.82300000000004,
+                        137.2402323
+                    ],
+                    [
+                        492.82300000000004,
+                        145.2103323
+                    ],
+                    [
+                        566.9289898,
+                        145.2103323
+                    ],
+                    [
+                        566.9289898,
+                        137.2402323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Graduating 08/2021"
+    },
+    {
+        "type": "Title",
+        "element_id": "78f70bc702a15293062b06afa01aad0d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        184.99705290000009
+                    ],
+                    [
+                        28.346,
+                        202.37536220000015
+                    ],
+                    [
+                        129.93608264,
+                        202.37536220000015
+                    ],
+                    [
+                        129.93608264,
+                        184.99705290000009
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "EMAIL solomon.irving@gmail.com"
+    },
+    {
+        "type": "Title",
+        "element_id": "c0f250457a5d0fd4014152278901cab9",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        184.95800000000003,
+                        171.63800260000005
+                    ],
+                    [
+                        184.95800000000003,
+                        185.98420260000012
+                    ],
+                    [
+                        329.0799252,
+                        185.98420260000012
+                    ],
+                    [
+                        329.0799252,
+                        171.63800260000005
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "EMPLOYMENT HISTORY"
+    },
+    {
+        "type": "Title",
+        "element_id": "67149c9627a88e4e58ae2d66e866d94c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        204.557,
+                        196.9662323
+                    ],
+                    [
+                        204.557,
+                        204.9363323
+                    ],
+                    [
+                        252.2660186,
+                        204.9363323
+                    ],
+                    [
+                        252.2660186,
+                        196.9662323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Jun - Aug 20"
+    },
+    {
+        "type": "Title",
+        "element_id": "bce65535e56c575a5349fcb62561a69d",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        264.62,
+                        197.01405290000002
+                    ],
+                    [
+                        264.62,
+                        214.40033230000006
+                    ],
+                    [
+                        383.7733867,
+                        214.40033230000006
+                    ],
+                    [
+                        383.7733867,
+                        197.01405290000002
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Seventh Ladder Industries FRONTEND DEVELOPER \u00b7 Contract"
+    },
+    {
+        "type": "Title",
+        "element_id": "55da65a8559cdfe75f97248166fbc241",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        227.83605290000014
+                    ],
+                    [
+                        28.346,
+                        235.80615290000014
+                    ],
+                    [
+                        51.578841499999996,
+                        235.80615290000014
+                    ],
+                    [
+                        51.578841499999996,
+                        227.83605290000014
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "LINKS"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2ae5faa69d8a09705529c30d58c5d810",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        228.11709940000003
+                    ],
+                    [
+                        280.31100000000004,
+                        236.31833230000007
+                    ],
+                    [
+                        533.9131763000001,
+                        236.31833230000007
+                    ],
+                    [
+                        533.9131763000001,
+                        228.11709940000003
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Planned, developed, tested, deployed, and maintained web appli-"
+    },
+    {
+        "type": "Title",
+        "element_id": "3ab7a16b1e52165fd3875e4c2a77828a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        237.8132323000001
+                    ],
+                    [
+                        289.526,
+                        245.7833323000001
+                    ],
+                    [
+                        317.3974397,
+                        245.7833323000001
+                    ],
+                    [
+                        317.3974397,
+                        237.8132323000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "cations."
+    },
+    {
+        "type": "Title",
+        "element_id": "1853eb2e9e5ed2bcc1d03b5a49cf407f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        256.23005290000003
+                    ],
+                    [
+                        28.346,
+                        264.20015290000003
+                    ],
+                    [
+                        61.1748419,
+                        264.20015290000003
+                    ],
+                    [
+                        61.1748419,
+                        256.23005290000003
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Portfolio"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2b2d23c54963637fad872bfeefd70538",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        251.03109940000002
+                    ],
+                    [
+                        280.31100000000004,
+                        259.23233230000005
+                    ],
+                    [
+                        533.9131763,
+                        259.23233230000005
+                    ],
+                    [
+                        533.9131763,
+                        251.03109940000002
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Provided effective troubleshooting and remediation for web appli-"
+    },
+    {
+        "type": "Title",
+        "element_id": "3ab7a16b1e52165fd3875e4c2a77828a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        260.7272323000001
+                    ],
+                    [
+                        289.526,
+                        268.6973323000001
+                    ],
+                    [
+                        317.3974397,
+                        268.6973323000001
+                    ],
+                    [
+                        317.3974397,
+                        260.7272323000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "cations."
+    },
+    {
+        "type": "Title",
+        "element_id": "1720d8eaff790da6af4406905ba663d0",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        277.6490529
+                    ],
+                    [
+                        28.346,
+                        285.6191529
+                    ],
+                    [
+                        54.009722000000004,
+                        285.6191529
+                    ],
+                    [
+                        54.009722000000004,
+                        277.6490529
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Github"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "46ba0e5b14f4e3d7b7d638a3f669100a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        273.9450994
+                    ],
+                    [
+                        280.31100000000004,
+                        282.14633230000004
+                    ],
+                    [
+                        533.9131763,
+                        282.14633230000004
+                    ],
+                    [
+                        533.9131763,
+                        273.9450994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Effectively translated client requirements into application designs"
+    },
+    {
+        "type": "Title",
+        "element_id": "a5fcf6a1089cb1712707a5dc928abff5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        283.64123230000007
+                    ],
+                    [
+                        289.526,
+                        291.6113323000001
+                    ],
+                    [
+                        388.4907317,
+                        291.6113323000001
+                    ],
+                    [
+                        388.4907317,
+                        283.64123230000007
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "and systems requirements."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "383afce1abc64375e000631422b505fa",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        296.8590994
+                    ],
+                    [
+                        280.31100000000004,
+                        305.0603323
+                    ],
+                    [
+                        442.08965420000004,
+                        305.0603323
+                    ],
+                    [
+                        442.08965420000004,
+                        296.8590994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Learned PHP to fulfill client requirements."
+    },
+    {
+        "type": "Title",
+        "element_id": "463051f456ad180aff19c834b279b6a3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        311.0240529
+                    ],
+                    [
+                        28.346,
+                        318.9941529
+                    ],
+                    [
+                        55.0378649,
+                        318.9941529
+                    ],
+                    [
+                        55.0378649,
+                        311.0240529
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "SKILLS"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1e739fa55de686f56d1c080588a9f2ff",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        310.30909940000004
+                    ],
+                    [
+                        280.31100000000004,
+                        318.5103323000001
+                    ],
+                    [
+                        444.19376059999996,
+                        318.5103323000001
+                    ],
+                    [
+                        444.19376059999996,
+                        310.30909940000004
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Technologies: HTML, CSS, Javascript, PHP"
+    },
+    {
+        "type": "Title",
+        "element_id": "42f9147041144196b96cc2753916f4d7",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        205.529,
+                        332.4582323000001
+                    ],
+                    [
+                        205.529,
+                        340.4761529
+                    ],
+                    [
+                        352.12372789999995,
+                        340.4761529
+                    ],
+                    [
+                        352.12372789999995,
+                        332.4582323000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Mar - Apr 20 Medical SPA Marketing"
+    },
+    {
+        "type": "Title",
+        "element_id": "3dad6e6b40ea5066e08b279d24c690be",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        347.38805289999993
+                    ],
+                    [
+                        28.346,
+                        355.35815289999994
+                    ],
+                    [
+                        57.2137022,
+                        355.35815289999994
+                    ],
+                    [
+                        57.2137022,
+                        347.38805289999993
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "HTML 5"
+    },
+    {
+        "type": "Title",
+        "element_id": "3e8cae0ca9b0d84c7300ba9069d5b709",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        264.62,
+                        341.6910994
+                    ],
+                    [
+                        264.62,
+                        349.8923323
+                    ],
+                    [
+                        362.4223867,
+                        349.8923323
+                    ],
+                    [
+                        362.4223867,
+                        341.6910994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "WEB DEVELOPER \u00b7 Contract"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "30fdbd5242999b8822b87f2d7c50e93c",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        363.6090994
+                    ],
+                    [
+                        280.31100000000004,
+                        371.8103323
+                    ],
+                    [
+                        481.47788840000004,
+                        371.8103323
+                    ],
+                    [
+                        481.47788840000004,
+                        363.6090994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Successfully created webpages from PDF mockups."
+    },
+    {
+        "type": "Title",
+        "element_id": "912568cbda73ef69875867793e7d7375",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        372.29405289999994
+                    ],
+                    [
+                        28.346,
+                        380.26415289999994
+                    ],
+                    [
+                        68.9775698,
+                        380.26415289999994
+                    ],
+                    [
+                        68.9775698,
+                        372.29405289999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "CSS/SASS"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "222472cec2d8d7ffdb7d33db06ef405b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        377.0590994
+                    ],
+                    [
+                        280.31100000000004,
+                        385.2603323
+                    ],
+                    [
+                        533.9131762999999,
+                        385.2603323
+                    ],
+                    [
+                        533.9131762999999,
+                        377.0590994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Worked as a productive and positive team member to design, code,"
+    },
+    {
+        "type": "Title",
+        "element_id": "a2eee9ff71a6e852e3012e366f36dff5",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        386.7542323
+                    ],
+                    [
+                        289.526,
+                        394.7243323
+                    ],
+                    [
+                        416.170889,
+                        394.7243323
+                    ],
+                    [
+                        416.170889,
+                        386.7542323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "test, report, and debug operations."
+    },
+    {
+        "type": "Title",
+        "element_id": "b27ad06d123c6145fba7e9217a4cfbf2",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        397.2010528999999
+                    ],
+                    [
+                        28.346,
+                        405.1711528999999
+                    ],
+                    [
+                        68.0689784,
+                        405.1711528999999
+                    ],
+                    [
+                        68.0689784,
+                        397.2010528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "JavaScript"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "9ab782fc4bbc95a3e667bb583457e63f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        399.97309939999997
+                    ],
+                    [
+                        280.31100000000004,
+                        408.1743323
+                    ],
+                    [
+                        533.9131763,
+                        408.1743323
+                    ],
+                    [
+                        533.9131763,
+                        399.97309939999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Evaluated and became knowledgeable in new standards, technolo-"
+    },
+    {
+        "type": "Title",
+        "element_id": "7b0a74b7bac3037f5f6e5d788150636b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        409.6682323
+                    ],
+                    [
+                        289.526,
+                        417.6383323
+                    ],
+                    [
+                        427.30511870000004,
+                        417.6383323
+                    ],
+                    [
+                        427.30511870000004,
+                        409.6682323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "gies, and trends in web development."
+    },
+    {
+        "type": "Title",
+        "element_id": "7cb4dc2680fb40f4312516bfa1f2e2e2",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        422.1080528999999
+                    ],
+                    [
+                        28.346,
+                        430.0781528999999
+                    ],
+                    [
+                        58.2657554,
+                        430.0781528999999
+                    ],
+                    [
+                        58.2657554,
+                        422.1080528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "React.js"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1de6ee9014b6ba1560a8871c9c08209e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        422.88709939999995
+                    ],
+                    [
+                        280.31100000000004,
+                        431.0883323
+                    ],
+                    [
+                        383.92386439999996,
+                        431.0883323
+                    ],
+                    [
+                        383.92386439999996,
+                        422.88709939999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Technologies: HTML, CSS"
+    },
+    {
+        "type": "Title",
+        "element_id": "1fc0c785332e80fb931c7a11323f27ab",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        447.0140528999999
+                    ],
+                    [
+                        28.346,
+                        454.9841528999999
+                    ],
+                    [
+                        56.9506889,
+                        454.9841528999999
+                    ],
+                    [
+                        56.9506889,
+                        447.0140528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Node.js"
+    },
+    {
+        "type": "Title",
+        "element_id": "ddc55d9de18c9e0d8a0d503705ef1c76",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        193.82100000000003,
+                        445.03523229999996
+                    ],
+                    [
+                        193.82100000000003,
+                        453.00533229999996
+                    ],
+                    [
+                        252.26574330000003,
+                        453.00533229999996
+                    ],
+                    [
+                        252.26574330000003,
+                        445.03523229999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Jan 20 - Feb 20"
+    },
+    {
+        "type": "Title",
+        "element_id": "eed3c61b83b18712818b0341d785707e",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        264.62,
+                        445.0830529
+                    ],
+                    [
+                        264.62,
+                        462.4703323
+                    ],
+                    [
+                        362.4223867,
+                        462.4703323
+                    ],
+                    [
+                        362.4223867,
+                        445.0830529
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Al\u2019s Photography WEB DEVELOPER \u00b7 Contract"
+    },
+    {
+        "type": "Title",
+        "element_id": "036563f6245658dae5a525294262b7e0",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        471.9210528999999
+                    ],
+                    [
+                        28.346,
+                        479.8911528999999
+                    ],
+                    [
+                        53.611217,
+                        479.8911528999999
+                    ],
+                    [
+                        53.611217,
+                        471.9210528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "jQuery"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1485c150a2b8328d26261109cc480dbd",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        476.18709939999997
+                    ],
+                    [
+                        280.31100000000004,
+                        484.3883323
+                    ],
+                    [
+                        533.9131763,
+                        484.3883323
+                    ],
+                    [
+                        533.9131763,
+                        476.18709939999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Created a web application to showcase clients photography busi-"
+    },
+    {
+        "type": "Title",
+        "element_id": "a236360aab920e8b4831a4de3e449b6a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        485.8822323
+                    ],
+                    [
+                        289.526,
+                        493.8523323
+                    ],
+                    [
+                        308.12024329999997,
+                        493.8523323
+                    ],
+                    [
+                        308.12024329999997,
+                        485.8822323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "ness."
+    },
+    {
+        "type": "Title",
+        "element_id": "0a6a15345ad0c7e36ed9dc3ec9c8ce84",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        496.8270528999999
+                    ],
+                    [
+                        28.346,
+                        504.7971528999999
+                    ],
+                    [
+                        44.2144691,
+                        504.7971528999999
+                    ],
+                    [
+                        44.2144691,
+                        496.8270528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "PHP"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "67b4b4728d9e49ead6bf65bedef174f6",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        499.10109939999995
+                    ],
+                    [
+                        280.31100000000004,
+                        507.3023323
+                    ],
+                    [
+                        487.58298500000006,
+                        507.3023323
+                    ],
+                    [
+                        487.58298500000006,
+                        499.10109939999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Developed new skills to accomplish a modern design."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2dca507034d32b3d14242e6cb7944088",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        512.5500993999999
+                    ],
+                    [
+                        280.31100000000004,
+                        520.7513323000001
+                    ],
+                    [
+                        455.55115309999996,
+                        520.7513323000001
+                    ],
+                    [
+                        455.55115309999996,
+                        512.5500993999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Technologies: HTML, CSS, jQuery, Wordpress"
+    },
+    {
+        "type": "Title",
+        "element_id": "c0b6a0226b6d1b97f69840d21134a03f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        521.7340528999998
+                    ],
+                    [
+                        28.346,
+                        529.7041528999998
+                    ],
+                    [
+                        45.5932964,
+                        529.7041528999998
+                    ],
+                    [
+                        45.5932964,
+                        521.7340528999998
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "CMS"
+    },
+    {
+        "type": "Title",
+        "element_id": "5b08d087f3572fa2dafa76f47ba9457f",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        546.6410528999999
+                    ],
+                    [
+                        28.346,
+                        554.6111528999999
+                    ],
+                    [
+                        46.2866951,
+                        554.6111528999999
+                    ],
+                    [
+                        46.2866951,
+                        546.6410528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "NPM"
+    },
+    {
+        "type": "Title",
+        "element_id": "62c4d1fbe4d406fed6cafb470fa7b48b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        192.96800000000002,
+                        534.6992323
+                    ],
+                    [
+                        192.96800000000002,
+                        542.6693323
+                    ],
+                    [
+                        252.26554400000003,
+                        542.6693323
+                    ],
+                    [
+                        252.26554400000003,
+                        534.6992323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "May 19 - Mar 20"
+    },
+    {
+        "type": "Title",
+        "element_id": "97395eb594d0dd5c4b5a370aee9b02d8",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        264.62,
+                        534.7470529
+                    ],
+                    [
+                        264.62,
+                        552.1343323
+                    ],
+                    [
+                        329.6565752000001,
+                        552.1343323
+                    ],
+                    [
+                        329.6565752000001,
+                        534.7470529
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "New York Life SALES AGENT \u00b7 CA"
+    },
+    {
+        "type": "Title",
+        "element_id": "572a14164bde322ae7c975fa7af893bd",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        571.5470528999999
+                    ],
+                    [
+                        28.346,
+                        579.5171528999999
+                    ],
+                    [
+                        57.994772,
+                        579.5171528999999
+                    ],
+                    [
+                        57.994772,
+                        571.5470528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Express"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2e76122ae0cd4f3b2677dbfaf3d67b2b",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        565.8510994
+                    ],
+                    [
+                        280.31100000000004,
+                        574.0523323
+                    ],
+                    [
+                        532.2793058000001,
+                        574.0523323
+                    ],
+                    [
+                        532.2793058000001,
+                        565.8510994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Sold a variety of insurance products to businesses and individuals."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "e0900202f0ed8c7d69b179ae5d35bab6",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        579.3000993999999
+                    ],
+                    [
+                        280.31100000000004,
+                        587.5013323000001
+                    ],
+                    [
+                        533.9131763,
+                        587.5013323000001
+                    ],
+                    [
+                        533.9131763,
+                        579.3000993999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Explained features of policies and the advantages and disadvan-"
+    },
+    {
+        "type": "Title",
+        "element_id": "d27c8242b45af8909ea4fde3bb6da33a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        28.346,
+                        596.4540528999999
+                    ],
+                    [
+                        28.346,
+                        604.4241528999999
+                    ],
+                    [
+                        70.26872599999999,
+                        604.4241528999999
+                    ],
+                    [
+                        70.26872599999999,
+                        596.4540528999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Git/Github"
+    },
+    {
+        "type": "Title",
+        "element_id": "0bc2935f75f22818d9534b82bec25b2a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        588.9962323
+                    ],
+                    [
+                        289.526,
+                        596.9663323
+                    ],
+                    [
+                        379.5562496,
+                        596.9663323
+                    ],
+                    [
+                        379.5562496,
+                        588.9962323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "tages of various policies."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f56aba3d3458bb01469e6cf2f3d9593a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        602.2140994
+                    ],
+                    [
+                        280.31100000000004,
+                        610.4153323
+                    ],
+                    [
+                        533.9131763000001,
+                        610.4153323
+                    ],
+                    [
+                        533.9131763000001,
+                        602.2140994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Developed marketing strategies to complete with individuals and"
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b2db059b709c40e594111bb6351aa456",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        289.526,
+                        611.9102323
+                    ],
+                    [
+                        289.526,
+                        619.8803323
+                    ],
+                    [
+                        402.2471243,
+                        619.8803323
+                    ],
+                    [
+                        402.2471243,
+                        611.9102323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "companies who sell insurance."
+    },
+    {
+        "type": "Title",
+        "element_id": "b65ac1e99d0fde7f036278b4b7846ce3",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        196.443,
+                        633.8272323
+                    ],
+                    [
+                        196.443,
+                        641.7973323
+                    ],
+                    [
+                        252.26558040000003,
+                        641.7973323
+                    ],
+                    [
+                        252.26558040000003,
+                        633.8272323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Aug 18 - Jun 19"
+    },
+    {
+        "type": "Title",
+        "element_id": "5cb56ee00c10bcd86cb5a202eff5d5c7",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        264.62,
+                        633.8750529
+                    ],
+                    [
+                        264.62,
+                        651.2623323
+                    ],
+                    [
+                        362.4223867,
+                        651.2623323
+                    ],
+                    [
+                        362.4223867,
+                        633.8750529
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "KcProvisions WEB DEVELOPER \u00b7 Contract"
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a24bb922d97107eefe9f45beb138bd52",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        664.9790994
+                    ],
+                    [
+                        280.31100000000004,
+                        673.1803323
+                    ],
+                    [
+                        510.87161720000006,
+                        673.1803323
+                    ],
+                    [
+                        510.87161720000006,
+                        664.9790994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Designed and developed website using modern techniques."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1bdaf5529339859434fb35ccd8a48004",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        678.4280994000001
+                    ],
+                    [
+                        280.31100000000004,
+                        686.6293323
+                    ],
+                    [
+                        503.14859029999997,
+                        686.6293323
+                    ],
+                    [
+                        503.14859029999997,
+                        678.4280994000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Successfully learned and implemented new technologies."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "7175e64cf51363b9de4ae8ba78a7b682",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        691.8780994
+                    ],
+                    [
+                        280.31100000000004,
+                        700.0793323
+                    ],
+                    [
+                        521.7906542,
+                        700.0793323
+                    ],
+                    [
+                        521.7906542,
+                        691.8780994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Successfully identified, diagnosed, and fixed website problems."
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a8d30852ef91bebdc4a8aa71bf4fe538",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        280.31100000000004,
+                        705.3270994
+                    ],
+                    [
+                        280.31100000000004,
+                        713.5283323
+                    ],
+                    [
+                        502.1124773,
+                        713.5283323
+                    ],
+                    [
+                        502.1124773,
+                        705.3270994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Technologies: HTML, CSS, Javascript, Liquid, Shopify CMS"
+    },
+    {
+        "type": "Title",
+        "element_id": "59891d08e1d3e26bb7f23f03f9403d62",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        184.958,
+                        750.8660026
+                    ],
+                    [
+                        184.958,
+                        765.2122026
+                    ],
+                    [
+                        248.21039580000001,
+                        765.2122026
+                    ],
+                    [
+                        248.21039580000001,
+                        750.8660026
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "PROJECTS"
+    },
+    {
+        "type": "Title",
+        "element_id": "f62850b708043e706a3ef48f99ace36a",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        184.95799999999997,
+                        775.3352323
+                    ],
+                    [
+                        184.95799999999997,
+                        792.7693323
+                    ],
+                    [
+                        238.64459359999995,
+                        792.7693323
+                    ],
+                    [
+                        238.64459359999995,
+                        775.3352323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Star Wars Amazing Store"
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "491a2a927f4e298ab737be3f68f2e996",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        344.655,
+                        775.3352323
+                    ],
+                    [
+                        344.655,
+                        792.7693323
+                    ],
+                    [
+                        564.8930443,
+                        792.7693323
+                    ],
+                    [
+                        564.8930443,
+                        775.3352323
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.276,
+                "layout_height": 841.89
+            },
+            "filename": "resume.pdf",
+            "file_directory": "../data",
+            "last_modified": "2023-10-12T22:04:11",
+            "filetype": "application/pdf",
+            "page_number": 1
+        },
+        "text": "Technologies: React, React Router, CSS, Semantic UI Technologies: React, React Router, CSS, Semantic UI, Firebase"
+    }
+]
